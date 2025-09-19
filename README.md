@@ -32,4 +32,4 @@ El objetivo es construir un **landing page interactivo** aplicando **CSS Flexbox
 ## ▶️ Ejecución
 1. Clonar este repositorio:
    ```bash
-   git clone https://github.com/tuusuario/iguana-page.git
+   git clone https://github.com/NicoMunozJS/desafio-03-iguana-page
